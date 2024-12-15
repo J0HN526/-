@@ -1,2 +1,29 @@
-# -
-Crypto Price Alerter 是一个用于实时跟踪加密货币价格的 Web 应用，用户可以选择添加不同的币种并查看它们的实时价格。该应用通过从 Binance API 获取数据，并通过语音播报当前价格，帮助用户了解市场动态。
+# Creptocoins tool
+
+This template should help get you started developing with Vue 3 in Vite.
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vite.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
